@@ -1,4 +1,4 @@
-# RAG and Retrieval Benchmarking on SciFact
+# Retrieval Benchmarking on SciFact
 
 ## Executive summary
 
