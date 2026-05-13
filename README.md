@@ -1,4 +1,4 @@
-# RAG Comparison Benchmarking
+# Retrieval Comparison Benchmarking
 
 This repository is a small **information retrieval benchmark** on the **SciFact** dataset (BEIR format). It was prepared in the context of an R2L Lab onboarding quiz : Implemented several retrievers, export ranked document lists, and evaluate them with standard IR metrics. The focus is on **comparing retrieval strategies** (sparse, dense, hybrid), not on building a full retrieval augmented generation stack with a language model.
 
